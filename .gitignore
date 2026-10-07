@@ -13,3 +13,7 @@ saved/
 docs/build/
 wandb/*
 /ray_log*
+.venv/
+saved/
+log/
+log_tensorboard/
